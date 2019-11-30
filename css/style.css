@@ -445,6 +445,10 @@ header .navbar .cta-btn a:hover {
   color: #000;
 }
 
+.text-green {
+  color: #59AA60
+}
+
 .testimonial .author img {
   width: 80px;
   height: 80px;
@@ -893,7 +897,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .section {
-  padding: 15em 0;
+  padding: 15em 0 5em 0;
   position: relative;
   z-index: 2;
 }
